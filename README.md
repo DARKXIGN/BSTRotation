@@ -1,4 +1,5 @@
 # BSTRotation
+Warning! BinaryNode.java, SortedCollection.java, BinarySearchTree.java flie is not provide in this Repository.
 ## Binary Search Tree Rotation Implementation
 This project provides a Java implementation of the rotation operation for a Binary Search Tree (BST). Rotations are fundamental transformations that locally restructure a tree to help maintain balance, forming the basis for more advanced data structures like AVL trees and Red-Black trees.
 
